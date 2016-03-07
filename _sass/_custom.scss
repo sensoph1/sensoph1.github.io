@@ -1,5 +1,40 @@
 // my variables
 
+
+.page-content{
+	margin:0px;
+	padding:0px;
+}
+.post-wrapper{
+	border-radius:20px;
+	display:flex;
+	width:800px;
+}
+
+.content-wrapper{
+	padding:15px;
+	border:4px solid #A1D490;
+	border-radius:20px;
+	margin:15px 0;
+	width:580px !important;
+}
+.slide-out{
+	margin:35px 0px;
+}
+.category,.date{
+	padding:10px;
+	margin:10px 0 -1 -1;
+	width:150px;
+}
+.date{
+	background:#90C3D4;
+
+	
+}
+.category{
+	background:#C390D4;
+}
+
 .strikethrough{
     text-decoration: line-through;
 
