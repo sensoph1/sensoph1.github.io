@@ -5,7 +5,7 @@ date:   2016-03-05 15:45:50
 categories: TIL
 ---
 so it turns out all i really needed to do was update my jekyll to anything newer than 2.4 (that is when it added support to auto reload)
-[click here](/til/2016/03/07/2016-Update-Jekyll.html) to read more.
+[click here](/til/2016/03/07/2016-Update-Jekyll/) to read more.
 
 
 <div class="strikethrough">
