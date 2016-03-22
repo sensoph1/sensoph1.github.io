@@ -1,17 +1,28 @@
 // my variables
 
+$small-break: 700px;
+
+
 .wrapper{
 	margin-left:15% !important;
+	@media screen and (max-width: $small-break){
+	 margin-left:0 !important;
+		width:70% ;
+
+	}
+
 }
 .page-content{
 	margin:0px;
 	padding:0px;
+
 }
 .post-wrapper{
 	border-radius:20px;
 	display:flex;
-	width:950px;
+	width:95%;
 	margin:0px;
+
 
 }
 
@@ -20,20 +31,38 @@
 	border:4px solid #A1D490;
 	border-radius:20px;
 	margin:15px 0;
-	width:730px !important;
-}
-.slide-out{
+	width:70% ;
+	@media screen and (max-width: $small-break){
+
+		width:50% ;
+
+	}
+ }
+
+.slide-out-tags{
 	margin:35px 0px;
+	@media screen and (max-width: $small-break){
+
+	display:none;
+
+	}
+}
+.inline-tags{
+display:none;
 }
 .category,.date{
 	padding:10px;
 	margin:10px 0 -1 -1;
 	width:150px;
+	@media screen and (max-width: $small-break){
+
+	display:inline-block;
+	}
 }
 .date{
 	background:#90C3D4;
 
-	
+
 }
 .category{
 	background:#C390D4;
