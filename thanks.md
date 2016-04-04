@@ -4,4 +4,4 @@ permalink: /thanks/
 ---
 
 
-Thanks!!!
+Thanks for getting in touch, You'll hear from me soon!!!
