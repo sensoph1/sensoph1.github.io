@@ -16,6 +16,6 @@ permalink: /contact/
 
 	<br>
     <input type="hidden" name="_subject" value="New Contact Form submission!" />
-    <input type="hidden" name="_next" value="//www.jeremybarkley.com/thanks.html" />
+    <input type="hidden" name="_next" value="//www.jeremybarkley.com/thanks/" />
     <input type="submit" value="Send">
 </form>
