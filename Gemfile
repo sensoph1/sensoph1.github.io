@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'jekyll'
+gem 'typogruby'
+gem 'jekyll-typogrify'
+gem 'jekyll-paginate', '~> 1.1'
