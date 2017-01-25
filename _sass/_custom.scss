@@ -5,12 +5,7 @@ $small-break: 700px;
 
 .wrapper{
 	margin-left:15% !important;
-	@media screen and (max-width: $small-break){
-	 margin-left:0 !important;
-		width:70% ;
-
-	}
-
+	
 }
 
 .page-content{
@@ -33,20 +28,11 @@ $small-break: 700px;
 	border-radius:20px;
 	margin:2% 0;
 	width:100% ;
-	@media screen and (max-width: $small-break){
-
-		width:50% ;
-
+	
 	}
- }
 
 .slide-out-tags{
 	margin:35px 0px;
-	@media screen and (max-width: $small-break){
-
-	display:none;
-
-	}
 }
 .inline-tags{
 display:none;
