@@ -13,11 +13,12 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
          {{ post.content }}
-</div>
-<div class="slide-out">
- <div class="date">{{ post.date | date: "%b %-d, %Y" }}</div>
- <div class="category"> {{ post.tags }} </div>  
-</div>
+
+      <div class="labels">
+       <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
+       <p class="category"> {{ post.tags }} </p>
+    </div>
+  </div>
 </div>
 
     {% endfor %}
