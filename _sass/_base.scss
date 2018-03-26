@@ -38,6 +38,16 @@ ul, ol, dl, figure,
 }
 
 
+form{
+
+
+    label, input, textarea {
+    display: block;
+    margin-top: .5em;
+    width: 100%;
+    padding: 0;
+ }
+}
 
 /**
  * Images

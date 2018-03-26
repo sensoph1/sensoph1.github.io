@@ -11,7 +11,7 @@ permalink: /contact/
     <label for="email">Email:</label>
 	<input type="email" name="_replyto">
 	<br>
-	<label for="body">Body:</label>
+	<label for="body">Message:</label>
 	<textarea name="body"></textarea>
 
 	<br>
