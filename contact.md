@@ -14,7 +14,8 @@ I don’t discuss project details by phone, IM or Skype. No exceptions, please d
     
     <label for="email">Email:</label>
 	<input type="email" name="_replyto">
-
+    <label for="subject">Subject:</label>
+    <input type="text" name="subject">
     <label for="budget">Budget:</label>
     <input type="text" name="budget">
 	<br>
