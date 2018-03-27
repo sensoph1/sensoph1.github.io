@@ -22,6 +22,8 @@ I don’t discuss project details by phone, IM or Skype. No exceptions, please d
 	<label for="body">Message:</label>
 	<textarea name="body"></textarea>
 
+
+
 	<br>
     <input type="hidden" name="_subject" value="New Contact Form submission!" />
     <input type="hidden" name="_next" value="//www.jeremybarkley.com/thanks/" />
