@@ -14,7 +14,7 @@ baseurl: ""
 url: "http://jeremybarkley.com"
 twitter_username: zombiestiltskin
 github_username:  sensoph1
-
+facebook_username: jeremybarkley
 # Build settings
 markdown: kramdown
 permalink: pretty
