@@ -37,7 +37,7 @@ body {
 
 }
 .post-wrapper{
-	border-radius:20px;
+	// border-radius:20px;
 	//display:flex;
 	width:100%;
 	margin:0px;
@@ -50,7 +50,7 @@ body {
 	 margin:auto;
 	text-align: center;
 
-	width:17em;
+	width:14em;
 	a{
 		color:black;
 	} 
@@ -69,8 +69,18 @@ ul.social-media-list{
 		background: white;
 		border:1px solid;
 		border-radius: 50px;
-		padding: 10px;
+		padding: 5px;
 		margin:10px;
+	}
+}
+.about-me{
+	margin:auto;
+	text-align:center;
+	.about-me-logo{
+		border-radius: 289px;
+		height: 150px;
+		margin-bottom:30px;
+		
 	}
 }
 .svg-inline--fa {
@@ -85,8 +95,9 @@ ul.social-media-list{
 
 .content-wrapper{
 	padding:3% 3% 0;
-	border:4px solid #A1D490;
-	border-radius:20px;
+	border:2px solid lightgray;
+	background:rgba(220, 220, 220, 0.425);
+	border-radius:10px;
 	margin:2% 0;
 	width:100% ;
 	}
