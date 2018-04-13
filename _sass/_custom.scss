@@ -85,13 +85,16 @@ ul.social-media-list{
 	margin:auto;
 	text-align:center;
 	
-	.hero-image,.about-me-logo{
+	.avatar{
 		border-radius: 200px;
-		width: 120px;
-		margin-bottom:50px;
+		width: 23%;
+		margin-bottom:35px;
 		padding:5px;
 		background:slategray;
 		
+	}
+	.about-me{
+
 	}
 
 }
@@ -103,7 +106,7 @@ ul.social-media-list{
 
 .container{
 	h1{
-		font-size:28px !important;
+		font-size:30px !important;
 		font-weight: 700;
 	}
 	h2{
@@ -111,19 +114,29 @@ ul.social-media-list{
 		margin:auto;
 		font-size:20px !important;
 		font-weight: 600;
-		margin-bottom:20px;
+		margin-bottom:22px;
+	}
+	.about-me{
+		
+			font-size:18px;
+		
+
 	}
 	.list-container{
 		width: 85%;
 		margin: auto;
 		h3{
 		
-		font-size: 16px;
+		font-size: 20px;
+			
+		}
+		li{
+			font-size: 18px;
 			
 		}
 		width: 75%;
 		margin: auto;
-		font-size: 16px;
+		font-size: 18px;
 		}
 	}
 

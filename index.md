@@ -4,7 +4,7 @@ layout: default
 ---
 
 {:class="jumbotron"}
-![alt text](/img/diego-ph-249471-unsplash_crop_square.jpg "diego-ph-249471-unsplash_crop_square.jpg"){:class="hero-image"}
+![alt text](/img/diego-ph-249471-unsplash_crop_square.jpg "diego-ph-249471-unsplash_crop_square.jpg"){:class="avatar"}
 
 
 <div class="container" markdown="1">
