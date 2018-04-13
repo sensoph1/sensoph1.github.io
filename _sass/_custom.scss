@@ -80,23 +80,12 @@ ul.social-media-list{
 	}
 }
 
-.about-me{
+.jumbotron{
 	width:100%;
 	margin:auto;
 	text-align:center;
-	.about-me-logo{
-		border-radius: 300px;
-		height: 180px;
-		margin-bottom:30px;
-		padding:5px;
-		background:slategray;
-	}
-}
-.jumbotron{
-	margin:auto;
-	text-align:center;
 	
-	.hero-image{
+	.hero-image,.about-me-logo{
 		border-radius: 200px;
 		width: 120px;
 		margin-bottom:50px;
