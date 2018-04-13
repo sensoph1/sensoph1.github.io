@@ -2,21 +2,20 @@
 
   <div class="foot-wrapper">
 
-    <!-- <h2 class="footer-heading">{{ site.title }}</h2> -->
 
     <div class="footer-col-wrapper">
-      <!-- <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          
-        </ul>
-      </div> -->
+    
 <ul class="footer-site-connect"><li>Let's Connect</li></ul>
-      <!-- <div class="footer-col footer-col-1"> -->
         <ul class="social-media-list">
           <li>
             <a href="mailto:{{ site.email }}"><i class="fas fa-envelope"></i></a>
           </li>
+
+          {% if site.dribbble_username %}
+          <li>
+            {% include icon-dribbble.html username=site.dribbble_username %}
+          </li>
+          {% endif %}
 
           {% if site.github_username %}
           <li>
@@ -36,14 +35,16 @@
           </li>
           {% endif %}
 
+
+           {% if site.linkedin_username %}
+          <li>
+            {% include icon-linkedin.html username=site.linkedin_username %}
+          </li>
+          {% endif %}
         </ul>
         <ul class="footer-site-name"> <li>Jeremy Barkley * 2018</li></ul> 
       </div>
 
-      <!-- <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div> -->
-    <!-- </div> -->
 
   </div>
 
