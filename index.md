@@ -3,15 +3,12 @@ layout: default
 # title: index
 ---
 
-{:class="jumbotron"}
-<<<<<<< HEAD
+<!-- {:class="jumbotron"} -->
+<div class="jumbotron" markdown="1">
 ![alt text](/img/diego-ph-249471-unsplash_crop_square.jpg "diego-ph-249471-unsplash_crop_square.jpg")
-{:class="avatar"}
-=======
-![alt text](/img/diego-ph-249471-unsplash_crop_square.jpg "diego-ph-249471-unsplash_crop_square.jpg"){:class="avatar"}
+<!-- {:class="avatar"} -->
 
->>>>>>> aaf6b65d46030ba1479a02d8ced8dfbc37af7cce
-
+</div>
 <div class="container" markdown="1">
 
 # Hello, I'm a freelance Web developer in Amarillo. 
