@@ -18,6 +18,17 @@ facebook_username: jeremysbarkley
 linkedin_username: jeremybarkley
 dribbble_username: sensoph
 
+toc:
+  - title: about
+  - title: contact
+  - title: projects
+  - title: blog
+
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path
 # Build settings
 markdown: kramdown
 permalink: pretty

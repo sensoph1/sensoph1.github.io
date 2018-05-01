@@ -38,7 +38,7 @@ index-page-content{
 	padding:1em;
 	border: 1px solid black;
 }
-.page-content{
+.page-content,.project-content{
 	margin:0px;
 	padding:0px;
 
@@ -51,12 +51,40 @@ index-page-content{
 
 
 }
-#roadhogscom{
-	background:red;
+.project-content{
+	margin-top:50px;
+}
+
+	
+.page-link{
+	margin-top:15px;
+	li{
+		display: inline-block;
+		margin-right:30px;
+		
+	}
+	a{
+		color:black;
+	}
+	a.active{
+		// padding:18px 15px 21px ;
+		// margin:0px;
+		color:slategray;
+		font-weight: 400;
+		// background:lightgray !important;
+	}
+}
+#roadhogs-motorcycle-club---roadhogscom{
+	margin-bottom:30px;
+}
+.project_body{
+	margin-bottom:30px;
 }
 .project_sample{
 	img{
-		width:200px !important;
+		width:32% !important;
+		margin:3px;
+		margin:auto;
 	}
 }
  ul.social-media-list,ul.footer-site-name,ul.footer-site-connect {
@@ -101,9 +129,9 @@ ul.social-media-list{
 		background:slategray;
 		
 	}
-	.about-me{
+	// .about-me{
 
-	}
+	// }
 
 }
 

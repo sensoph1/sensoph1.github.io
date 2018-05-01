@@ -1,7 +1,9 @@
 ---
 layout: blog
 title: Blog
+order: 2
 ---
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <div class="home">
@@ -26,7 +28,7 @@ title: Blog
     {% endfor %}
   </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 </div>
 

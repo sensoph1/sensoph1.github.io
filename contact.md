@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+order: 4
 ---
 
 The best way to contact me is by email. I’m very responsive and usually reply within one working day. 

@@ -1,14 +1,28 @@
 ---
 layout: project
 ---
-<div class="project">
+  <!DOCTYPE html>
+  <html>
+  
+  {% include head.html %}
+  
+  <body>
+  
+    {% include header.html %}
+  
+    <div class="project-content">
+            <div class="wrapper">
 
-  <header class="project-header">
-    <h1 class="project-title">{{ project.title }}</h1>
-  </header>
+      {{ content }}
+    </div>
 
-  <div class="project-content">
-    {{ content }}
+    </div>
   </div>
+  
+    {% include footer.html %}
+  
+  </body>
+  
+  </html>
 
-</div>
+  

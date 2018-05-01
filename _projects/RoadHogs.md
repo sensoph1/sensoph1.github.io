@@ -5,12 +5,12 @@ title:  "Roadhogs"
 # category: Goals
 # tags: Goals
 ---
-## RoadHogs.com
+# Roadhogs Motorcycle club - RoadHogs.com
 
-<!-- {:class="project_sample"} -->
 
-![alt text](/img/Roadhogs_login_screen.jpeg "Roadhogs_login_screen.jpeg")
+Roadhogs Motorcycle club wanted a custom wordpress theme to replace their previous website.They used the site do relay upcoming events as well as recap previous events with details and photos. They also wanted it to have restricted access to only current members.
+{:class="project_body"}
+![alt text](/img/screencapture-roadhogsmc.png "screencapture-roadhogsmc.png")
+![alt text](/img/roadhogs_events_1.jpg "roadhogs_events_1.jpg")
+![alt text](/img/roadhogs_directory_1.jpg "roadhogs_directory_1.jpg")
 {:class="project_sample"}
-![alt text](/img/roadhogs_events.jpg "roadhogs_events.jpg")
-![alt text](/img/roadhogs_directory.jpg "roadhogs_directory.jpg")
-
