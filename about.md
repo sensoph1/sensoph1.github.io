@@ -16,4 +16,4 @@ I'm Jeremy Barkley. I am a Systems admin for OpenVMS and RedHat Linux systems an
 
 
 
-In my free time (when i can find it), I also enjoy creating objects in 3d using Blender 3d, as well as CrossFit, and spending time with family outdoors.
+In my free time (when i can find it), I also enjoy creating objects in 3d using Blender 3d. I also enjoy hiking and biking and spending time with family.
